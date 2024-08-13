@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Marvel</string>
+    <string name="profile">Profile</string>
+    <string name="heroes_name">Nama Film</string>
+    <string name="description">Deskripsi</string>
+    <string name="rating">Rating</string>
+    <string name="director">Director</string>
+    <string name="writer">Writer</string>
+    <string-array name="data_name">
+        <item>Avenger Endgame</item>
+        <item>Avenger Infinity War</item>
+        <item>The Avengers</item>
+        <item>Captain America : The Winter Soldier</item>
+        <item>Iron Man</item>
+        <item>Captain America : Civil War</item>
+        <item>Spider-man 2</item>
+        <item>Spider-man : Into the Spider-Verse</item>
+        <item>Guardians of the Galaxy</item>
+        <item>Black Phanter</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Thanos and his Children - Proxima Midnight, Ebony Maw, Corvus Glaive and Cull Obsidian - have attacked Thor Asgardian ship, the Statesman, in search of the Space Stone, which is housed in the Tesseract that Loki had stolen before Asgard s destruction. With Thanos already possessing the Power Stone after decimating Xandar, Thanos army swiftly defeats the Asgardians. After a futile counter-attack from the Hulk, Loki offers the Tesseract to Thanos in exchange for Thor s life - only to be killed himself when Thanos anticipates Loki s attempt to betray and kill him. Moments before Glaive kills him, Heimdall uses the power of the Bifrost to send Hulk to Earth. Thanos and his Children then depart just after Thanos uses the Power stone to destroy the Statesman, leaving a mourning Thor behind and stranded in space.</item>
+        <item>After the devastating events of Avengers: Infinity War (2018), the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos actions and undo the chaos to the universe, no matter what consequences may be in store, and no matter who they face</item>
+        <item>Loki, the adopted brother of Thor, teams-up with the Chitauri Army and uses the Tesseracts power to travel from Asgard to Midgard to plot the invasion of Earth and become a king. The director of the agency S.H.I.E.L.D., Nick Fury, sets in motion project Avengers, joining Tony Stark a.k.a. the Iron Man; Steve Rogers, a.k.a. Captain America; Bruce Banner, a.k.a. The Hulk; Thor; Natasha Romanoff, a.k.a. Black Widow; and Clint Barton, a.k.a. Hawkeye, to save the world from the powerful Loki and the alien invasion.</item>
+        <item>For Steve Rogers, awakening after decades of suspended animation involves more than catching up on pop culture; it also means that this old school idealist must face a world of subtler threats and difficult moral complexities. That becomes clear when Director Nick Fury is killed by the mysterious assassin, the Winter Soldier, but not before warning Rogers that SHIELD has been subverted by its enemies. When Rogers acts on Furys warning to trust no one there, he is branded as a traitor by the organization. Now a fugitive, Captain America must get to the bottom of this deadly mystery with the help of the Black Widow and his new friend, The Falcon. However, the battle will be costly for the Sentinel of Liberty, with Rogers finding enemies where he least expects them while learning that the Winter Soldier looks disturbingly familiar.</item>
+        <item>Tony Stark. Genius, billionaire, playboy, philanthropist. Son of legendary inventor and weapons contractor Howard Stark. When Tony Stark is assigned to give a weapons presentation to an Iraqi unit led by Lt. Col. James Rhodes, he s given a ride on enemy lines. That ride ends badly when Stark s Humvee that he s riding in is attacked by enemy combatants. He survives - barely - with a chest full of shrapnel and a car battery attached to his heart. In order to survive he comes up with a way to miniaturize the battery and figures out that the battery can power something else. Thus Iron Man is born. He uses the primitive device to escape from the cave in Iraq. Once back home, he then begins work on perfecting the Iron Man suit. But the man who was put in charge of Stark Industries has plans of his own to take over Tony technology for other matters</item>
+        <item>With many people fearing the actions of super heroes, the government decides to push for the Hero Registration Act, a law that limits a hero s actions. This results in a division in The Avengers. Iron Man stands with this Act, claiming that their actions must be kept in check otherwise cities will continue to be destroyed, but Captain America feels that saving the world is daring enough and that they cannot rely on the government to protect the world. This escalates into an all-out war between Team Iron Man (Iron Man, Black Panther, Vision, Black Widow, War Machine, and Spider-Man) and Team Captain America (Captain America, Bucky Barnes, Falcon, Scarlet Witch, Hawkeye, and Ant Man) while a new villain emerges.</item>
+        <item>Peter Parker is an unhappy man: after two years of fighting crime as Spider-Man, his life has begun to fall apart. The girl he loves is engaged to someone else, his grades are slipping, he cannot keep any of his jobs, and on top of it, the newspaper Daily Bugle is attacking him viciously, claiming that Spider-Man is a criminal. He reaches the breaking point and gives up the crime fighters life, once and for all. But after a failed fusion experiment, eccentric and obsessive scientist Dr. Otto Octavius is transformed into super villain Doctor Octopus, Doc Ock for short, having four long tentacles as extra hands. Peter guesses it might just be time for Spider-Man to return, but would he act upon it?</item>
+        <item>Phil Lord and Christopher Miller, the creative minds behind The Lego Movie and 21 Jump Street, bring their unique talents to a fresh vision of a different Spider-Man Universe, with a groundbreaking visual style thats the first of its kind. "Spider-Man(TM): Into the Spider-Verse" introduces Brooklyn teen Miles Morales (Shameik Moore), and the limitless possibilities of the Spider-Verse, where more than one can wear the mask</item>
+        <item>After stealing a mysterious orb in the far reaches of outer space, Peter Quill from Earth is now the main target of a manhunt led by the villain known as Ronan the Accuser. To help fight Ronan and his team and save the galaxy from his power, Quill creates a team of space heroes known as the "Guardians of the Galaxy" to save the galaxy</item>
+        <item>After the events of Captain America: Civil War, Prince TChalla returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his countrys new king. However, TChalla soon finds that he is challenged for the throne from factions within his own country. When two foes conspire to destroy Wakanda, the hero known as Black Panther must team up with C.I.A. agent Everett K. Ross and members of the Dora Milaje, Wakandan special forces, to prevent Wakanda from being dragged into a world war.</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_QL75_UX380_CR0,0,380,562_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_UY209_CR0,0,140,209_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR0,0,140,209_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_UY209_CR1,0,140,209_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_UY209_CR0,0,140,209_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_UY209_CR0,0,140,209_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY209_CR6,0,140,209_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_UY209_CR0,0,140,209_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BNDIzMTk4NDYtMjg5OS00ZGI0LWJhZDYtMzdmZGY1YWU5ZGNkXkEyXkFqcGdeQXVyMTI5NzUyMTIz._V1_UY209_CR0,0,140,209_AL_.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_UY209_CR0,0,140,209_AL_.jpg</item>
+    </string-array>
+    <string-array name="data_rating">
+        <item>Rating 8.4</item>
+        <item>Rating 8.4</item>
+        <item>Rating 8.1</item>
+        <item>Rating 7.8</item>
+        <item>Rating 7.8</item>
+        <item>Rating 7.9</item>
+        <item>Rating 8</item>
+        <item>Rating 7.5</item>
+        <item>Rating 8</item>
+        <item>Rating 8</item>
+    </string-array>
+    <string-array name="data_directors">
+        <item>Director : Anthony Ruso and Joe Russo</item>
+        <item>Director : Anthony Ruso and Joe Russo</item>
+        <item>Director : Joss Whedon</item>
+        <item>Director : Anthony Ruso and Joe Russo</item>
+        <item>Director : Jon Favreau</item>
+        <item>Director : Anthony Ruso and Joe Russo</item>
+        <item>Director : Sam Raimi</item>
+        <item>Director : Bob Persichetti, Peter Ramsey and Rodney Rothman</item>
+        <item>Director : James Gunn</item>
+        <item>Director : Ryan Coogler</item>
+    </string-array>
+    <string-array name="data_writers">
+        <item>Writer : Christopher Markus, Stephen McFeely and Stan Lee</item>
+        <item>Writer : Christopher Markus, Stephen McFeely and Stan Lee</item>
+        <item>Writer : Joss Whedon and Zak Penn</item>
+        <item>Writer : Christopher Markus, Stephen McFeely and Joe Simon</item>
+        <item>Writer : Mark Fergus, Hawk Ostby and Art Marcum</item>
+        <item>Writer : Christopher Markus, Stephen McFeely and Stan Lee</item>
+        <item>Writer : Stan Lee, Steve Ditko and Alfred Gough</item>
+        <item>Writer : Phil Lord and Rodney Rothman</item>
+        <item>Writer : James Gunn, Nicole Perlman and Dan Abnett</item>
+        <item>Writer : Ryan Coogler, Joe Robert Cole and Stan Lee</item>
+    </string-array>
+</resources>
